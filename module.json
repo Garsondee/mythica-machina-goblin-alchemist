@@ -1,0 +1,31 @@
+{
+  "id": "mythica-machina-goblin-alchemist",
+  "title": "Mythica Machina - Goblin Alchemist",
+  "description": "Just a small fun map designed to show off the map shine module's special effects.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Ingram Blakelock"
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "Mythica Machina - Goblin Alchemist",
+      "path": "/packs/adventure.db",
+      "entity": "Adventure",
+      "type": "Adventure"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
