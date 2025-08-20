@@ -4,8 +4,8 @@
   "description": "Just a small fun map designed to show off the map shine module's special effects.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "10",
+    "verified": "12"
   },
   "authors": [
     {
@@ -25,7 +25,7 @@
     "./scripts/init.js"
   ],
   "url": "",
-  "manifest": "https://github.com/Garsondee/mythica-machina-goblin-alchemist/blob/main/module.json",
-  "download": "https://github.com/Garsondee/mythica-machina-goblin-alchemist/blob/main/module.zip",
+  "manifest": "",
+  "download": "",
   "manifestPlusVersion": "1.2.0"
 }
